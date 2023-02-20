@@ -97,13 +97,7 @@ int main()
         printf("Thanks for entering the game");
         exit(0);
     }
-    /*printf("Enter name of Player 1: ");
-    scanf("%s", player_name);
-    printf("Welcome, %s!\n", player_name);
-
-    printf("Enter name of Player 2: ");
-    scanf("%s", player_name);
-    printf("Welcome, %s!\n", player_name);*/
+    
 
             getchar();
 
