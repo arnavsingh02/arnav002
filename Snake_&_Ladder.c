@@ -6,7 +6,7 @@
 int rollDice()
 {
     return (rand() % 6) + 1;
-}
+};
 
 int checkSnakeLadder(int position)
 {
